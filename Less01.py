@@ -30,3 +30,4 @@ if numberOK:
     print('Красавец, отгадал с попытки ', count_c, ' число ', number)
 else:
     print('Тупеня, просрал все попытки... Число было :', number, ' POPITKA ', count_c)
+111
